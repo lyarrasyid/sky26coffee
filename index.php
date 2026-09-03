@@ -28,7 +28,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top transition-all py-3" id="mainNav">
         <div class="container">
             <a class="navbar-brand font-playfair fw-bold fs-3" href="#home">
-                <i class="fa-solid fa-mug-hot me-2"></i>SKY 26 <span class="text-gold">COFFEE</span>
+                <i class="fa-solid fa-mug-hot me-2"></i>SKY 26 <span class="text-gold">COFFEEx</span>
             </a>
             <button class="navbar-toggler border-0 shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive">
                 <span class="navbar-toggler-icon"></span>
